@@ -1,0 +1,2 @@
+099647646e42bf63ea4080ad64c5dd4ace1b6fe5363697c63cc2846fb3aff83a  packages/OrcaSlicer_2.4.2_Persian_Help_V2_698_AutoInstall.zip
+6650ff5e9ae25b307e9b968f782d8fadbbdf7d977a855014a2d466afaa4fb6e9  packages/OrcaSlicer_2.5.0_Persian_Help_V3.5.zip
